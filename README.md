@@ -1,0 +1,1 @@
+This is a Space Invaders game. It is programmed with C++. In this game, we added and made various game feautures like accelerated speed, more enemies, better track of scores, safety bubble to protect the ship, changed the spaceship when reached a certain score, and more. 
